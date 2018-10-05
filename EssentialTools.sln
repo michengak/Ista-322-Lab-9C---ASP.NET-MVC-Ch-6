@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTools", "EssentialTools\EssentialTools.csproj", "{A17F4144-4E23-4063-88D1-1FC3AD6104D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTools.Tests", "EssentialTools.Tests\EssentialTools.Tests.csproj", "{E68FCCA4-B267-4164-BB81-B6024EFB4D87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A17F4144-4E23-4063-88D1-1FC3AD6104D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A17F4144-4E23-4063-88D1-1FC3AD6104D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A17F4144-4E23-4063-88D1-1FC3AD6104D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A17F4144-4E23-4063-88D1-1FC3AD6104D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E68FCCA4-B267-4164-BB81-B6024EFB4D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E68FCCA4-B267-4164-BB81-B6024EFB4D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E68FCCA4-B267-4164-BB81-B6024EFB4D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68FCCA4-B267-4164-BB81-B6024EFB4D87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F8A58A7-545F-4240-A310-1262EED357EF}
+	EndGlobalSection
+EndGlobal
